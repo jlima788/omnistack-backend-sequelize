@@ -1,6 +1,6 @@
 # Projeto feito seguindo a semana Omnistack 7 da Rocketseat, utilizando Sequelize e banco de dados MySQL.
 
-Ao baixar ou clonar este repositório siga os passos abaico:
+Ao baixar ou clonar este repositório siga os passos abaixo:
 
 ```
 npm install ou yarn install
